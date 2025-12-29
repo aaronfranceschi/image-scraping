@@ -1,6 +1,6 @@
 # Web Scraper & Image Downloader
 
-A robust, extensible Python project for concurrent web scraping and batch image downloading. This repository contains a comprehensive, production-ready implementation with retry logic, per-host rate-limiting, concurrent downloads, and detailed reporting capabilities.
+A robust, extensible Python project designed for concurrent web scraping and batch image downloading. This repository contains a comprehensive, production-ready implementation with retry logic, per-host rate-limiting, concurrent downloads, and detailed reporting capabilities.
 
 ## Features
 
