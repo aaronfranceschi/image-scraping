@@ -59,5 +59,4 @@ python main.py --csv data.csv --out downloads --workers 8 --max 500 --delay 1.0 
 - Respect `robots.txt` and terms of service
 - Adjust worker count based on your system resources
 - Review the generated report for any issues
-# Updated documentation
-# Updated documentation
+
